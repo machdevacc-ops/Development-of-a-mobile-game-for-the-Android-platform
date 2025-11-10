@@ -8,6 +8,8 @@ Cílem bakalářské práce je obeznámit čtenáře s problematikou vývoje her
 
 Využité technologie - Unity, C#, Android
 
-Více informací k projektu a samotný text práce na https://theses.cz/id/j421ye/?isshlret=Franti%C5%A1ek%3BMacho%C5%88%3B;zpet=%2Fvyhledavani%2F%3Fsearch%3Dfranti%C5%A1ek%20macho%C5%88%26start%3D1
+Více informací k projektu a samotný text práce je dostupný na theses - https://theses.cz/id/j421ye/?isshlret=Franti%C5%A1ek%3BMacho%C5%88%3B;zpet=%2Fvyhledavani%2F%3Fsearch%3Dfranti%C5%A1ek%20macho%C5%88%26start%3D1
 
-Složky projektu - https://drive.google.com/drive/folders/1re92viOziuduHkUUD0Oruc_OmbaL7NoU?usp=sharing
+apk hry - https://drive.google.com/drive/folders/1ZipCT1Q5HNLhQ4VM4sW5-UOTC5iyyNqd
+
+alternativní uložiště - https://drive.google.com/drive/folders/1pdERZ0PjwTjicEpc1_eDrsCs7uhNSKjX
